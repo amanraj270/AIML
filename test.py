@@ -1,2 +1,2 @@
 print("HelloWorld")
-yokosoo
+yokosooo
