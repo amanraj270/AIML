@@ -45,4 +45,5 @@ match a:
         print("a is two")
     case _:
         print("a is not zero, one, or two")
-        
+
+        #multiple cases
