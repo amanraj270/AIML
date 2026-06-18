@@ -56,4 +56,4 @@ print(a is c)  # Check if a and c refer to the same object
 print(a is not b)  # Check if a and b do not refer to the same object
 print(a is not c)  # Check if a and c do not refer to the same object
 print("a is b:", a is b)  # Check if a and b refer to the same object
-
+print("a is not b:", a is not b)  # Check if a and b do not refer to the same object
