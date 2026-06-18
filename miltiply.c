@@ -8,3 +8,4 @@ int main() {
     printf("The product is: %d", product);
     return 0;
 }
+#product of two numbers
