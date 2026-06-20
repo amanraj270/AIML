@@ -29,7 +29,7 @@ for i in range(2, 21, 2):
     sum = sum + i
 
 print("Sum of first 10 even numbers =", sum)
-
+count = 0
 for i in range(1,5):
     for j in range(1,5):
         print(i, j)
