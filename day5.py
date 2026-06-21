@@ -16,7 +16,7 @@ s2 = "python programming"
 #print(s2.title())
 #print(s2.split())
 
-# s3 = s.split()
+#s3 = s.split()
 # print(s3)
 # print ('hi ' .join(s3))
 # print (s2.replace('python', 'java'))
