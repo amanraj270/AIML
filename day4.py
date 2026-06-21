@@ -13,14 +13,14 @@
     #print(i) 
 
     #for i in range(1,10,2):
-        #print(i)
+        #printt(i)
 
         # While loop
         #i = 0
 #while i < 10:
  #      i += 
  
- # wap to to print the sum of first 10 even numbers using for loop and while loop 
+ # wapp to to print the sum of first 10 even numbers using for loop and while loop 
 
 
 sum = 0
