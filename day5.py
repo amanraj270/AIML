@@ -7,7 +7,7 @@ s= "  it means a loop inside another loop ,it is useful  wwhen we have multiple 
 # print (s[:10])
 # print (s[-10])
 # print (s[-10:])
-s2 = "python programming"
+s2 = "pythonn programming"
 # print (s+s2)
 
 #print(s2.upper())
