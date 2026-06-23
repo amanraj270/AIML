@@ -32,7 +32,7 @@ print(l2)
 # 13=12.copy()
 # print(l2)
 
-#WAP to check if two strings are anagrams or not
+#WAP to check if two strings are anagrams or nott
 
 s1='listen'
 s2='silent'
