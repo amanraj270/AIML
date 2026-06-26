@@ -24,7 +24,7 @@ def addition():
 
     # functions with parameter
 
-    # windsurf: , explain , generate docstring
+    # windsurf: , explain , generate docstrings
 
     def add(a,b):
         return a+b
