@@ -60,3 +60,4 @@ class Animal:
 
 a1 = Animal()
 a2 = Animal()
+
