@@ -45,3 +45,53 @@ class Student1:
 s2 = Student1("Allen")
 # print(s2._name)
 # s2.display()
+
+class Student3:
+    def __init__(self, name):
+        self.__name = name  # Private
+
+    def display(self):
+        print(self.__name)
+
+s3 = Student3("Allen")
+# print(s3.__name)
+# s3.display()
+
+
+# Error
+
+# Syntax Error
+# for i range(10):
+#     print(i)
+
+# Runtime Error
+def division(a, b):
+    print(a / b)
+
+# division(10, 2)
+# division(10, 0)
+
+# Logical Error
+# def addition(a, b):
+#     print(a - b)
+
+# addition(10, 40)
+
+# Indentation Error
+# if True:
+# print("True")
+
+# Exception Handling
+# try:
+#     statement
+# except:
+#     statement
+# finally:
+#     statement
+
+try:
+    division(10, 2)
+except:
+    print("Division by 0 is not possible")
+finally:
+    print("Finally Block")
