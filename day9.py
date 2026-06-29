@@ -50,7 +50,7 @@ e2 = Employee("John", 30)
 # print(e1.name, e1.age)
 # print(e2.name, e2.age)
 
-# Non-Parameterized Constructor
+# Non-Parameterized Constructors
 
 class Animal:
 
